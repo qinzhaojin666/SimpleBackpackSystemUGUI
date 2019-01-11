@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{7E9A61D7-B309-7E96-7E20-D01E4FF6041E}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/StaticData/StaticData.cs">
+    <Files>
+      <File FileName="Assets/Scripts/02Controller/KnapsackController.cs" Line="120" Column="62" />
+      <File FileName="Assets/Scripts/03View/TempInventoryItem.cs" Line="10" Column="21" />
+      <File FileName="Assets/Scripts/03View/InventoryGrid.cs" Line="196" Column="38" />
+      <File FileName="Assets/Scripts/03View/InventoryItem.cs" Line="10" Column="22" />
+      <File FileName="Assets/Scripts/StaticData/StaticData.cs" Line="17" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yiheng/Documents/Unity相关/Unity项目/_Tutorial_TipAndTricks/Unity_Tutoral/SimpleBackpackSystemUGUI/Assets/Scripts/03View/InventoryGrid.cs" relfile="Assets/Scripts/03View/InventoryGrid.cs" line="242" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
